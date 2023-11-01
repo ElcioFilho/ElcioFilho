@@ -2,7 +2,6 @@
 
 - 🔭 Estagiário em Tecnico da Informação;
 - 🌱 Estudando Java/JavaScript/React
-- 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Desenvolvendo um jogo
 
 <div style="display: inline_block"><br>

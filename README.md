@@ -1,8 +1,8 @@
 ## Seja Bem vindo(a) ao meu perfil
 
 - 🔭 Estagiário em Tecnico da Informação;
-- 🌱 Estudando Java/JavaScript/React
-- ⚡ Fun fact: Desenvolvendo um jogo
+- 🌱 Estudando Java/JavaScript/React;
+- ⚡ Fun fact: Otimizando em Java.
 
 <div style="display: inline_block"><br>
   

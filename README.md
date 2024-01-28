@@ -39,4 +39,6 @@ Busco oportunidades para aplicar meu conhecimento e contribuir para projetos ino
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=A020F0&animation=fadeIn&section=footer&fontAlignY=51&fontAlign=50&reversal=false"/>
 
+![Snake animation](https://github.com/ElcioFilho/ElcioFilho/blob/output/github-contribution-grid-snake.svg)
+
 

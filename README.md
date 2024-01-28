@@ -35,3 +35,4 @@ Busco oportunidades para aplicar meu conhecimento e contribuir para projetos ino
   <a href = "mailto:elciofilho18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=A020F0&animation=fadeIn&section=footer&fontAlignY=51&fontAlign=50&reversal=false"/>

@@ -19,12 +19,9 @@ Busco oportunidades para aplicar meu conhecimento e contribuir para projetos ino
 ##
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElcioFilho&show_icons=true&theme=chartreuse-dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElcioFilho&show_icons=true&theme=midnight-purple)
 
 </div>
-
-
-
 
 <div> 
 

@@ -3,6 +3,9 @@
 Estudante de Análise e Desenvolvimento de Sistemas com experiência com Suporte de TI. Apaixonado por programação, focado em aprimorar habilidades em Java, Javascript, C#, Python e React. 
 
 Busco oportunidades para aplicar meu conhecimento e contribuir para projetos inovadores.
+<div align="center">
+
+
 
 <div style="display: inline_block"><br>
   

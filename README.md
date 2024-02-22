@@ -34,7 +34,7 @@ Busco oportunidades para aplicar meu conhecimento e contribuir para projetos ino
 </div>
 </div>
 
-<h2 align='center'>Me chame pelo:</h2>
+<h2 align='center'>About me:</h2>
 
 <div align='center'> 
   <a href="https://www.linkedin.com/in/elcio-da-silva-de-oliveira-filho-2b5354228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
